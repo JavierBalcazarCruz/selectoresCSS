@@ -1,0 +1,9 @@
+.primer-letra::first-letter{
+    font-size: 18px;
+    color: blue;
+}
+
+.primer-linea::first-line{
+    font-size: 11px;
+    color: yellow;
+}

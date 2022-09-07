@@ -1,0 +1,22 @@
+
+/* Selecciona atributo href con todo el link y busca una coincidencia */
+/* a[href="http://www.google.com"]{
+    color: red;
+} */
+
+/* Busca a todo elemento a que tenga un atributo  href y comience con http */
+/* 
+a[href^="http"]{
+    color: yellow;
+} */
+
+
+/* Busca a todo elemento a que tenga un atributo  href y termine con .com */
+/* a[href$=".com"]{
+    color: gray;
+} */
+
+input[type="tel"]{
+   border: 5px solid green;
+}
+
